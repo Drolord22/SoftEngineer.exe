@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif; /* Font family for the body */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+header {
+    background-image: url('src/header_back.png'); /* Ajusta la ruta */
+    background-size: cover;     /* Para cubrir todo el header */
+    background-position: center;/* Centrado */
+    color: rgb(255, 255, 255); /* White text */
+    padding: 5px 0; /* Padding for spacing */
+    text-align: center; /* Centered text */
+    
+}
+
+.logo {
+    width: 650px; /* Width of the logo */
+    height: auto; /* Maintain aspect ratio */
+    margin: -15px; /* Margin for spacing */
+    
+}
+
+nav{
+    background-color: #1f202c; /* Light gray background */
+    padding: 10px; /* Padding for spacing */
+    text-decoration: none; /* Remove underline from links */
+}
+
+a{
+    color: rgb(255, 255, 255); /* Black text for links */
+    text-decoration: none; /* Remove underliSne from links */
+    padding: 30px; /* Padding for links */
+    font-weight: bold; /* Bold text for links */
+    font-family: Arial; /* Font family for links */
+    transition: transform 0.2s ease, color 0.2s ease; /* Smooth transition for hover effects */
+}
+
+a:hover {
+    transform: scale(1.2);     /* Hace que el texto se agrande */
+    color: rgb(65, 154, 255);             /* Cambia el color */
+}
+
+.search-container {
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 15px;
+}
