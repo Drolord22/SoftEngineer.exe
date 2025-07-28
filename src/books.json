@@ -1,24 +1,29 @@
 [
   {
-    "title": "Aprende Python",
-    "author": "Juan Pérez",
-    "category": "Programation",
-    "front page": "img/python.jpg",
-    "editorial": "",
-    "year release": "",
-    "pages number":"",
-    "synopsis": "Un libro completo para aprender Python desde cero.",
-    "enlace": "https://www.mediafire.com/file/ejemplo-python.pdf",
-    "publish date":""
+    "title": "AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence",
+    "author": "Laurence Moroney",
+    "category": "AI",
+    "front page": "PENDING",
+    "publisher": "O'Reilly Media",
+    "release date": "November 10, 2020",
+    "pages number":"390",
+    "description": "Welcome to AI and Machine Learning for Coders, a book that I’ve been wanting to write for many years but that has only really become possible due to recent advances in machine learning (ML) and, in particular, TensorFlow. The goal of this book is to prepare you, as a coder, for many of the scenarios that you can address with machine learning, with the aim of equipping you to be an ML and AI developer without needing a PhD! I hope that you’ll find it useful, and that it will empower you with the confidence to get started on this wonderful and rewarding journey.",
+    "enlace": "PENDING",
+    "publish date":"27/07/2025"
   },
   {
-    "titulo": "Bases de Datos MySQL",
-    "autor": "Ana López",
-    "categoria": "bases de datos",
-    "imagen": "img/mysql.jpg",
-    "enlace": "https://www.mediafire.com/file/ejemplo-mysql.pdf"
+    "title": "Begin to Code with JavaScript",
+    "author": "Rob Miles",
+    "category": "Coding",
+    "front page": "PENDING",
+    "publisher": "Microsoft Press",
+    "release date": "September 13, 2021",
+    "pages number":"512",
+    "description": "Start writing software that solves real problems, even if you have absolutely no programming experience! This friendly, easy, full-color book puts you in total control of your own learning, empowering you to build unique and useful programs. Microsoft has completely reinvented the beginning programmer's tutorial, reflecting deep research into how today's beginners learn, and why other books fall short. Begin to Code with JavaScript is packed with innovations, from its JavaScript code samples you can interact with straight from your browser to its Make Something Happen projects. Whether you're a total beginner or you've tried before, this guide will put the power, excitement, and fun of programming where it belongs: in your hands! Easy, friendly, and you're in control!",
+    "enlace": "PENDING",
+    "publish date":"27/07/2025"
   },
   {
-    
+
   }
 ]
