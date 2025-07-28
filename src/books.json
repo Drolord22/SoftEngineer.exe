@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Aprende Python",
+    "author": "Juan Pérez",
+    "category": "Programation",
+    "front page": "img/python.jpg",
+    "editorial": "",
+    "year release": "",
+    "pages number":"",
+    "synopsis": "Un libro completo para aprender Python desde cero.",
+    "enlace": "https://www.mediafire.com/file/ejemplo-python.pdf",
+    "publish date":""
+  },
+  {
+    "titulo": "Bases de Datos MySQL",
+    "autor": "Ana López",
+    "categoria": "bases de datos",
+    "imagen": "img/mysql.jpg",
+    "enlace": "https://www.mediafire.com/file/ejemplo-mysql.pdf"
+  },
+  {
+    
+  }
+]

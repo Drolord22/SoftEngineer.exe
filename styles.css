@@ -37,13 +37,6 @@ a{
 }
 
 a:hover {
-    transform: scale(1.2);     /* Hace que el texto se agrande */
-    color: rgb(65, 154, 255);             /* Cambia el color */
-}
-
-.search-container {
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 15px;
+    transform: scale(1.2);       /* Hace que el texto se agrande */
+    color: rgb(65, 154, 255);  /* Cambia el color */
 }

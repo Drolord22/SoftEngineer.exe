@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,21 +10,29 @@
     <header>
         <img src="src/SoftEngineer_logo.png" alt="SoftEngineer.exe Logo" class="logo">
         <nav>
-                <a href="todos">Todos</a>
-                <a href="programacion">Programación</a>
-                <a href="bases de datos">Bases de datos</a>
-                <a href="cyberseguridad">Cyberseguridad</a>
-                <a href="hacking">Hacking</a>
-                <a href="SO">Sistemas operativos</a>
+                <a href="All">All</a>
+                <a href="Coding.html">Coding</a>
+                <a href="Databases.html">Databases</a>
+                <a href="Cybersecurity.html">Cybersecurity</a>
+                <a href="Hacking.html">Hacking</a>
+                <a href="OS.html">Operating Systems</a>
+                <a href="AI.html">Artificial inteligence</a>
 
                 <a class="search-container">
-                    <input type="text" placeholder="Buscar...">
-                    <button type="submit">Buscar</button>
+                    <input type="text" id="searchInput" placeholder="Search...">
+                    <button onclick="search()">Search</button>
                 </a>
-                </div>
+                
         </nav>
     </header>
 
+    <main id="book-container">
+        <!-- Aquí se insertarán los libros desde el JSON -->
+    </main>
 
+    <footer>
+        <p>&copy; 2025 SoftEngineer.exe. All rights reserved.</p>
+    </footer>
+    
 </body>
 </html>
