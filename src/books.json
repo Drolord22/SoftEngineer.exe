@@ -8,7 +8,7 @@
     "release date": "November 10, 2020",
     "pages number":"390",
     "description": "Welcome to AI and Machine Learning for Coders, a book that I’ve been wanting to write for many years but that has only really become possible due to recent advances in machine learning (ML) and, in particular, TensorFlow. The goal of this book is to prepare you, as a coder, for many of the scenarios that you can address with machine learning, with the aim of equipping you to be an ML and AI developer without needing a PhD! I hope that you’ll find it useful, and that it will empower you with the confidence to get started on this wonderful and rewarding journey.",
-    "enlace": "PENDING",
+    "download link": "PENDING",
     "publish date":"27/07/2025"
   },
   {
@@ -20,10 +20,31 @@
     "release date": "September 13, 2021",
     "pages number":"512",
     "description": "Start writing software that solves real problems, even if you have absolutely no programming experience! This friendly, easy, full-color book puts you in total control of your own learning, empowering you to build unique and useful programs. Microsoft has completely reinvented the beginning programmer's tutorial, reflecting deep research into how today's beginners learn, and why other books fall short. Begin to Code with JavaScript is packed with innovations, from its JavaScript code samples you can interact with straight from your browser to its Make Something Happen projects. Whether you're a total beginner or you've tried before, this guide will put the power, excitement, and fun of programming where it belongs: in your hands! Easy, friendly, and you're in control!",
-    "enlace": "PENDING",
+    "download link": "PENDING",
     "publish date":"27/07/2025"
   },
   {
-
+    "title": "Building a Career in Cybersecurity: The Strategy and Skills You Need to Succeed",
+    "author": "Yuri Diogenes",
+    "category": "Cybersecurity",
+    "front page": "PENDING",
+    "publisher": "Addison-Wesley",
+    "release date": "July 8, 2023",
+    "pages number":"192",
+    "description": "Cybersecurity is one of the world's fastest growing, most exciting fields--but that doesn't mean it's easy to enter the industry and succeed. Now there's a complete guide to creating a great cybersecurity career, whether you're migrating to cybersecurity from another field or already a cybersecurity professional.",
+    "download link": "PENDING",
+    "publish date":"29/07/2025"
+  },
+  {
+    "title": "Building an API Product: Design, implement, release, and maintain API products that meet user needs",
+    "author": "Bruno Pedro",
+    "category": "Coding",
+    "front page": "PENDING",
+    "publisher": "Packt Publishing",
+    "release date": "January 25, 2024",
+    "pages number":"278",
+    "description": "Unlock the power of APIs with expert guidance and techniques for successfully creating, testing, and maintaining products that align with customers and stand out in the market",
+    "download link": "PENDING",
+    "publish date":"29/07/2025"
   }
 ]
