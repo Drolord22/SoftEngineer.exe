@@ -40,3 +40,8 @@ a:hover {
     transform: scale(1.2);       /* Hace que el texto se agrande */
     color: rgb(65, 154, 255);  /* Cambia el color */
 }
+main {
+    padding: 20px; /* Padding for main content */
+    text-align: center; /* Centered text */
+    background-color: #272729;
+}
