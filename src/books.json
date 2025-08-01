@@ -14,7 +14,7 @@
   {
     "title": "Begin to Code with JavaScript",
     "author": "Rob Miles",
-    "category": "Coding",
+    "category": "Programming",
     "front page": "PENDING",
     "publisher": "Microsoft Press",
     "release date": "September 13, 2021",
@@ -38,7 +38,7 @@
   {
     "title": "Building an API Product: Design, implement, release, and maintain API products that meet user needs",
     "author": "Bruno Pedro",
-    "category": "Coding",
+    "category": "Programming",
     "front page": "PENDING",
     "publisher": "Packt Publishing",
     "release date": "January 25, 2024",
@@ -50,7 +50,7 @@
     {
     "title": "C# and Algorithmic Thinking for the Complete Beginner Learn to Think Like a Programmer",
     "author": "Aristides Bouras",
-    "category": "Coding",
+    "category": "Programming",
     "front page": "PENDING",
     "publisher": "Independently published",
     "release date": "May 14, 2024",
@@ -74,7 +74,7 @@
     {
     "title": "C# Interview Guide: Boost your confidence with answers to hundreds of secret interview questions",
     "author": "Konstantin Semenenko",
-    "category": "Coding",
+    "category": "Programming",
     "front page": "PENDING",
     "publisher": "Packt Publishing",
     "release date": "Mar 08, 2024",
@@ -82,5 +82,41 @@
     "description": "Catapult your C# journey with this guide to crafting standout resumes, mastering advanced concepts, and navigating job offers with real-world insights for unparalleled success in programming and interviews",
     "download link": "PENDING",
     "publish date":"29/07/2025"
+  },
+  {
+    "title": "Cloud Penetration Testing: Learn how to effectively pentest AWS, Azure, and GCP applications",
+    "author": "Kim Crawley",
+    "category": "Hacking",
+    "front page": "PENDING",
+    "publisher": "Packt Publishing",
+    "release date": "November 24, 2023",
+    "pages number":"298",
+    "description": "Get to grips with cloud exploits, learn the fundamentals of cloud security, and secure your organization's network by pentesting AWS, Azure, and GCP effectively",
+    "download link": "PENDING",
+    "publish date":"01/08/2025"
+  },
+  {
+    "title": "C++ Without Fear: A Beginner's Guide That Makes You Feel Smart",
+    "author": "Brian Overland",
+    "category": "Programming",
+    "front page": "PENDING",
+    "publisher": "Pearson",
+    "release date": "December 20, 2015",
+    "pages number":"615",
+    "description": "Have you ever wanted to learn programming? Have you ever wanted to learn the C++ language behind many of today’s hottest games, business programs, and even advanced spacecraft? C++ Without Fear, Third Edition, is the ideal way to get started. Now updated for the newest C++14 standard and the free Microsoft Visual C++ Community Edition, it will quickly make you productive with C++ even if you’ve never written a line of code!",
+    "download link": "PENDING",
+    "publish date":"01/08/2025"
+  },
+  {
+    "title": "Cybersecurity Blue Team Strategies: Uncover the secrets of blue teams to combat cyber threats in your organization",
+    "author": "Kunal Sehgal, Nikolaos Thymianis",
+    "category": "Cybersecurity",
+    "front page": "PENDING",
+    "publisher": "Packt Publishing",
+    "release date": "February 28, 2023",
+    "pages number":"208",
+    "description": "This book is for cybersecurity professionals involved in defending an organization’s systems and assets against attacks. Penetration testers, cybersecurity analysts, security leaders, security strategists, and blue team members will find this book helpful. Chief Information Security Officers (CISOs) looking at securing their organizations from adversaries will also benefit from this book. To get the most out of this book, basic knowledge of IT security is recommended.",
+    "download link": "PENDING",
+    "publish date":"01/08/2025"
   }
 ]
