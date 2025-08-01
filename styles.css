@@ -42,6 +42,11 @@ a:hover {
     transform: scale(1.2);       /* Hace que el texto se agrande */
     color: rgb(65, 154, 255);  /* Cambia el color */
 }
+nav a.search-container:hover { /*Evita que la barra de busqueda sea afectada por el efecto de a:hover*/
+  transform: none;
+  color: inherit;
+  background: none;
+}
 main {
     padding: 20px; /* Padding for main content */
     text-align: center; /* Centered text */
