@@ -28,9 +28,10 @@ nav{
 }
 
 a{
+    display: inline-block;
     color: rgb(255, 255, 255); /* Black text for links */
     text-decoration: none; /* Remove underliSne from links */
-    padding: 30px; /* Padding for links */
+    padding: 15px; /* Padding for links */
     
     font-weight: bold; /* Bold text for links */
     font-family: Arial; /* Font family for links */
@@ -46,7 +47,9 @@ main {
     text-align: center; /* Centered text */
     background-color: #272729;
 }
-a.search-container{
-    display: inline-block;    
-    padding: 2px;
+
+.tabLogo{
+    /*Con esta de aqui puedes modificar los logos de cada tab
+    Usa el background-color para que puedas ver el tamaño de los bloques de las imagenes*/
+    
 }
