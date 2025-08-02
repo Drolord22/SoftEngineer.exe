@@ -118,5 +118,44 @@
     "description": "This book is for cybersecurity professionals involved in defending an organization’s systems and assets against attacks. Penetration testers, cybersecurity analysts, security leaders, security strategists, and blue team members will find this book helpful. Chief Information Security Officers (CISOs) looking at securing their organizations from adversaries will also benefit from this book. To get the most out of this book, basic knowledge of IT security is recommended.",
     "download link": "PENDING",
     "publish date":"01/08/2025"
+  },
+  {
+    "title": "Cyber Threat Intelligence: The No-Nonsense Guide for Cisos and Security Managers",
+    "author": "Aaron Roberts",
+    "category": "Cybersecurity",
+    "front page": "PENDING",
+    "publisher": "Apress",
+    "release date": "August 10, 2021",
+    "pages number": "195",
+    "description": "Understand the process of setting up a successful cyber threat intelligence (CTI) practice within an established security team. This book shows you how threat information that has been collected, evaluated, and analyzed is a critical component in protecting your organization's resources. Adopting an intelligence-led approach enables your organization to nimbly react to situations as they develop. Security controls and responses can then be applied as soon as they become available, enabling prevention rather than response.",
+    "download link":"PENDING",
+    "publish date": "02/08/2025"
+    
+  },
+  {
+    "title": "Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD",
+    "author": "Jeremy Howard & Sylvain Gugger",
+    "category": "Programming",
+    "front page": "PENDING",
+    "publisher": "O'Reilly Media",
+    "release date": "August 25, 2020",
+    "pages number": "624",
+    "description": "Deep learning is often viewed as the exclusive domain of math PhDs and big tech companies. But as this hands-on guide demonstrates, programmers comfortable with Python can achieve impressive results in deep learning with little math background, small amounts of data, and minimal code. How? With fastai, the first library to provide a consistent interface to the most frequently used deep learning applications.",
+    "download link":"PENDING",
+    "publish date": "02/08/2025"
+    
+  },
+  {
+    "title": "Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques",
+    "author": "Luis Atencio",
+    "category": "Programming",
+    "front page": "PENDING",
+    "publisher": "Manning",
+    "release date": "June 18, 2016",
+    "pages number": "274",
+    "description": "Functional Programming in JavaScript teaches JavaScript developers functional techniques that will improve extensibility, modularity, reusability, testability, and performance. Through concrete examples and jargon-free explanations, this book teaches you how to apply functional programming to real-life development tasks",
+    "download link":"PENDING",
+    "publish date": "02/08/2025"
+    
   }
 ]
