@@ -21,22 +21,28 @@
                 <a href="AI.html">Artificial intelligence</a>
 
                 
-                <a class="search-container">
-                    
+                <form class="search-container" onsubmit="search(event)" style="display: inline; margin-left: 20px;">                   
                     <input type="text" id="searchInput" placeholder="Search...">
                     <button onclick="search()">Search</button>
-                    
-                </a>                
+                </form>    
+                                
         </nav>
     </header>
 
-    <main id="book-container">
-        <!-- Aquí se insertarán los libros desde el JSON -->
+    <main id="book-container" class="content">
+            <h1>Welcome to SoftEngineer.exe</h1>
+            <p>Your go-to resource for all things software engineering.</p>
+            <p>Explore below all the books of the website, enjoy!</p>
+            <p1>You need help with the downloads? <a href="help.html">Click here</a></p1>
     </main>
+    <div id="pagination" class="pagination"></div>
+
+        
 
     <footer>
         <p>&copy; 2025 SoftEngineer.exe. All rights reserved.</p>
     </footer>
-    
+ 
+    <script src="scripts.js"></script>   
 </body>
 </html>

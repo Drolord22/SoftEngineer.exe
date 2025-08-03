@@ -3,159 +3,159 @@
     "title": "AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence",
     "author": "Laurence Moroney",
     "category": "AI",
-    "front page": "PENDING",
+    "frontpage": "AIandMachineLearningforCoders.jpg",
     "publisher": "O'Reilly Media",
     "release date": "November 10, 2020",
     "pages number":"390",
     "description": "Welcome to AI and Machine Learning for Coders, a book that I’ve been wanting to write for many years but that has only really become possible due to recent advances in machine learning (ML) and, in particular, TensorFlow. The goal of this book is to prepare you, as a coder, for many of the scenarios that you can address with machine learning, with the aim of equipping you to be an ML and AI developer without needing a PhD! I hope that you’ll find it useful, and that it will empower you with the confidence to get started on this wonderful and rewarding journey.",
     "download link": "PENDING",
-    "publish date":"27/07/2025"
+    "publish date":"2025-07-27"
   },
   {
     "title": "Begin to Code with JavaScript",
     "author": "Rob Miles",
     "category": "Programming",
-    "front page": "PENDING",
+    "frontpage": "BegintoCodewithJavaScript.jpg",
     "publisher": "Microsoft Press",
     "release date": "September 13, 2021",
     "pages number":"512",
     "description": "Start writing software that solves real problems, even if you have absolutely no programming experience! This friendly, easy, full-color book puts you in total control of your own learning, empowering you to build unique and useful programs. Microsoft has completely reinvented the beginning programmer's tutorial, reflecting deep research into how today's beginners learn, and why other books fall short. Begin to Code with JavaScript is packed with innovations, from its JavaScript code samples you can interact with straight from your browser to its Make Something Happen projects. Whether you're a total beginner or you've tried before, this guide will put the power, excitement, and fun of programming where it belongs: in your hands! Easy, friendly, and you're in control!",
     "download link": "PENDING",
-    "publish date":"27/07/2025"
+    "publish date":"2025-07-27"
   },
   {
     "title": "Building a Career in Cybersecurity: The Strategy and Skills You Need to Succeed",
     "author": "Yuri Diogenes",
     "category": "Cybersecurity",
-    "front page": "PENDING",
+    "frontpage": "BuildingaCareerinCybersecurityTheStrategy.jpg",
     "publisher": "Addison-Wesley",
     "release date": "July 8, 2023",
     "pages number":"192",
     "description": "Cybersecurity is one of the world's fastest growing, most exciting fields--but that doesn't mean it's easy to enter the industry and succeed. Now there's a complete guide to creating a great cybersecurity career, whether you're migrating to cybersecurity from another field or already a cybersecurity professional.",
     "download link": "PENDING",
-    "publish date":"29/07/2025"
+    "publish date":"2025-07-29"
   },
   {
     "title": "Building an API Product: Design, implement, release, and maintain API products that meet user needs",
     "author": "Bruno Pedro",
     "category": "Programming",
-    "front page": "PENDING",
+    "frontpage": "BuildinganAPIProduct.jpg",
     "publisher": "Packt Publishing",
     "release date": "January 25, 2024",
     "pages number":"278",
     "description": "Unlock the power of APIs with expert guidance and techniques for successfully creating, testing, and maintaining products that align with customers and stand out in the market",
     "download link": "PENDING",
-    "publish date":"29/07/2025"
+    "publish date":"2025-07-29"
   },
     {
     "title": "C# and Algorithmic Thinking for the Complete Beginner Learn to Think Like a Programmer",
     "author": "Aristides Bouras",
     "category": "Programming",
-    "front page": "PENDING",
+    "frontpage": "CSharpandAlgorithmicThinking.jpg",
     "publisher": "Independently published",
     "release date": "May 14, 2024",
     "pages number":"676",
     "description": "Completely updated for the latest version of C#, this book offers a comprehensive introduction to programming, assuming no prior knowledge of the subject. It is designed for individuals, eager to learn C# from scratch, providing a strong foundation in Algorithmic Thinking—the fundamental skill every aspiring programmer must acquire. Algorithmic Thinking encompasses more than just writing code; it entails mastering the art of problem-solving through coding.",
     "download link": "PENDING",
-    "publish date":"29/07/2025"
+    "publish date":"2025-07-29"
   },
     {
     "title": "Certified Information Security Manager Exam Prep Guide - Second Edition: Gain the confidence to pass the CISM exam using test-oriented study material",
     "author": "Hemang Doshi",
     "category": "Cybersecurity",
-    "front page": "PENDING",
+    "frontpage": "CertifiedInformationSecurityManagerExamPrepGuide.jpg",
     "publisher": "Packt Publishing",
     "release date": "Dic 16, 2022",
     "pages number":"718",
     "description": "Purchase of the book unlocks access to web-based tools like practice questions, flashcards, and more to take your CISM prep to the next level.",
     "download link": "PENDING",
-    "publish date":"29/07/2025"
+    "publish date":"2025-07-29"
   },
     {
     "title": "C# Interview Guide: Boost your confidence with answers to hundreds of secret interview questions",
     "author": "Konstantin Semenenko",
     "category": "Programming",
-    "front page": "PENDING",
+    "frontpage": "CSharpInterviewGuideBoostyourconfidence.jpg",
     "publisher": "Packt Publishing",
     "release date": "Mar 08, 2024",
     "pages number":"362",
     "description": "Catapult your C# journey with this guide to crafting standout resumes, mastering advanced concepts, and navigating job offers with real-world insights for unparalleled success in programming and interviews",
     "download link": "PENDING",
-    "publish date":"29/07/2025"
+    "publish date":"2025-07-29"
   },
   {
     "title": "Cloud Penetration Testing: Learn how to effectively pentest AWS, Azure, and GCP applications",
     "author": "Kim Crawley",
     "category": "Hacking",
-    "front page": "PENDING",
+    "frontpage": "CloudPenetrationTestingLearnhowto.jpg",
     "publisher": "Packt Publishing",
     "release date": "November 24, 2023",
     "pages number":"298",
     "description": "Get to grips with cloud exploits, learn the fundamentals of cloud security, and secure your organization's network by pentesting AWS, Azure, and GCP effectively",
     "download link": "PENDING",
-    "publish date":"01/08/2025"
+    "publish date":"2025-08-01"
   },
   {
     "title": "C++ Without Fear: A Beginner's Guide That Makes You Feel Smart",
     "author": "Brian Overland",
     "category": "Programming",
-    "front page": "PENDING",
+    "frontpage": "C++Without FearABeginnersGuide.jpg",
     "publisher": "Pearson",
     "release date": "December 20, 2015",
     "pages number":"615",
     "description": "Have you ever wanted to learn programming? Have you ever wanted to learn the C++ language behind many of today’s hottest games, business programs, and even advanced spacecraft? C++ Without Fear, Third Edition, is the ideal way to get started. Now updated for the newest C++14 standard and the free Microsoft Visual C++ Community Edition, it will quickly make you productive with C++ even if you’ve never written a line of code!",
     "download link": "PENDING",
-    "publish date":"01/08/2025"
+    "publish date":"2025-08-01"
   },
   {
     "title": "Cybersecurity Blue Team Strategies: Uncover the secrets of blue teams to combat cyber threats in your organization",
     "author": "Kunal Sehgal, Nikolaos Thymianis",
     "category": "Cybersecurity",
-    "front page": "PENDING",
+    "frontpage": "CybersecurityBlueTeamStrategiesUncoverthesecrets.jpg",
     "publisher": "Packt Publishing",
     "release date": "February 28, 2023",
     "pages number":"208",
     "description": "This book is for cybersecurity professionals involved in defending an organization’s systems and assets against attacks. Penetration testers, cybersecurity analysts, security leaders, security strategists, and blue team members will find this book helpful. Chief Information Security Officers (CISOs) looking at securing their organizations from adversaries will also benefit from this book. To get the most out of this book, basic knowledge of IT security is recommended.",
     "download link": "PENDING",
-    "publish date":"01/08/2025"
+    "publish date":"2025-08-01"
   },
   {
     "title": "Cyber Threat Intelligence: The No-Nonsense Guide for Cisos and Security Managers",
     "author": "Aaron Roberts",
     "category": "Cybersecurity",
-    "front page": "PENDING",
+    "frontpage": "CyberThreatIntelligence.jpg",
     "publisher": "Apress",
     "release date": "August 10, 2021",
     "pages number": "195",
     "description": "Understand the process of setting up a successful cyber threat intelligence (CTI) practice within an established security team. This book shows you how threat information that has been collected, evaluated, and analyzed is a critical component in protecting your organization's resources. Adopting an intelligence-led approach enables your organization to nimbly react to situations as they develop. Security controls and responses can then be applied as soon as they become available, enabling prevention rather than response.",
     "download link":"PENDING",
-    "publish date": "02/08/2025"
+    "publish date": "2025-08-02"
     
   },
   {
     "title": "Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD",
     "author": "Jeremy Howard & Sylvain Gugger",
     "category": "Programming",
-    "front page": "PENDING",
+    "frontpage": "DeepLearningforCoderswithFastaiandPyTorch.jpg",
     "publisher": "O'Reilly Media",
     "release date": "August 25, 2020",
     "pages number": "624",
     "description": "Deep learning is often viewed as the exclusive domain of math PhDs and big tech companies. But as this hands-on guide demonstrates, programmers comfortable with Python can achieve impressive results in deep learning with little math background, small amounts of data, and minimal code. How? With fastai, the first library to provide a consistent interface to the most frequently used deep learning applications.",
     "download link":"PENDING",
-    "publish date": "02/08/2025"
+    "publish date": "2025-08-02"
     
   },
   {
     "title": "Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques",
     "author": "Luis Atencio",
     "category": "Programming",
-    "front page": "PENDING",
+    "frontpage": "FunctionalProgramminginJavaScriptHowtoimprove.jpg",
     "publisher": "Manning",
     "release date": "June 18, 2016",
     "pages number": "274",
     "description": "Functional Programming in JavaScript teaches JavaScript developers functional techniques that will improve extensibility, modularity, reusability, testability, and performance. Through concrete examples and jargon-free explanations, this book teaches you how to apply functional programming to real-life development tasks",
     "download link":"PENDING",
-    "publish date": "02/08/2025"
+    "publish date": "2025-08-02"
     
   }
 ]
