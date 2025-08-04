@@ -9,7 +9,8 @@
     "pages number":"390",
     "description": "Welcome to AI and Machine Learning for Coders, a book that I’ve been wanting to write for many years but that has only really become possible due to recent advances in machine learning (ML) and, in particular, TensorFlow. The goal of this book is to prepare you, as a coder, for many of the scenarios that you can address with machine learning, with the aim of equipping you to be an ML and AI developer without needing a PhD! I hope that you’ll find it useful, and that it will empower you with the confidence to get started on this wonderful and rewarding journey.",
     "download link": "PENDING",
-    "publish date":"2025-07-27"
+    "publish date":"2025-07-27",
+    "shared by": "Drolord22"
   },
   {
     "title": "Begin to Code with JavaScript",
@@ -21,7 +22,9 @@
     "pages number":"512",
     "description": "Start writing software that solves real problems, even if you have absolutely no programming experience! This friendly, easy, full-color book puts you in total control of your own learning, empowering you to build unique and useful programs. Microsoft has completely reinvented the beginning programmer's tutorial, reflecting deep research into how today's beginners learn, and why other books fall short. Begin to Code with JavaScript is packed with innovations, from its JavaScript code samples you can interact with straight from your browser to its Make Something Happen projects. Whether you're a total beginner or you've tried before, this guide will put the power, excitement, and fun of programming where it belongs: in your hands! Easy, friendly, and you're in control!",
     "download link": "PENDING",
-    "publish date":"2025-07-27"
+    "publish date":"2025-07-27",
+    "shared by": "Drolord22"
+    
   },
   {
     "title": "Building a Career in Cybersecurity: The Strategy and Skills You Need to Succeed",
@@ -33,7 +36,8 @@
     "pages number":"192",
     "description": "Cybersecurity is one of the world's fastest growing, most exciting fields--but that doesn't mean it's easy to enter the industry and succeed. Now there's a complete guide to creating a great cybersecurity career, whether you're migrating to cybersecurity from another field or already a cybersecurity professional.",
     "download link": "PENDING",
-    "publish date":"2025-07-29"
+    "publish date":"2025-07-29",
+    "shared by": "Drolord22"
   },
   {
     "title": "Building an API Product: Design, implement, release, and maintain API products that meet user needs",
@@ -45,7 +49,8 @@
     "pages number":"278",
     "description": "Unlock the power of APIs with expert guidance and techniques for successfully creating, testing, and maintaining products that align with customers and stand out in the market",
     "download link": "PENDING",
-    "publish date":"2025-07-29"
+    "publish date":"2025-07-29",
+    "shared by": "Drolord22"
   },
     {
     "title": "C# and Algorithmic Thinking for the Complete Beginner Learn to Think Like a Programmer",
@@ -57,7 +62,8 @@
     "pages number":"676",
     "description": "Completely updated for the latest version of C#, this book offers a comprehensive introduction to programming, assuming no prior knowledge of the subject. It is designed for individuals, eager to learn C# from scratch, providing a strong foundation in Algorithmic Thinking—the fundamental skill every aspiring programmer must acquire. Algorithmic Thinking encompasses more than just writing code; it entails mastering the art of problem-solving through coding.",
     "download link": "PENDING",
-    "publish date":"2025-07-29"
+    "publish date":"2025-07-29",
+    "shared by": "Drolord22"
   },
     {
     "title": "Certified Information Security Manager Exam Prep Guide - Second Edition: Gain the confidence to pass the CISM exam using test-oriented study material",
@@ -69,7 +75,8 @@
     "pages number":"718",
     "description": "Purchase of the book unlocks access to web-based tools like practice questions, flashcards, and more to take your CISM prep to the next level.",
     "download link": "PENDING",
-    "publish date":"2025-07-29"
+    "publish date":"2025-07-29",
+    "shared by": "Drolord22"
   },
     {
     "title": "C# Interview Guide: Boost your confidence with answers to hundreds of secret interview questions",
@@ -81,7 +88,8 @@
     "pages number":"362",
     "description": "Catapult your C# journey with this guide to crafting standout resumes, mastering advanced concepts, and navigating job offers with real-world insights for unparalleled success in programming and interviews",
     "download link": "PENDING",
-    "publish date":"2025-07-29"
+    "publish date":"2025-07-29",
+    "shared by": "Drolord22"
   },
   {
     "title": "Cloud Penetration Testing: Learn how to effectively pentest AWS, Azure, and GCP applications",
@@ -93,7 +101,8 @@
     "pages number":"298",
     "description": "Get to grips with cloud exploits, learn the fundamentals of cloud security, and secure your organization's network by pentesting AWS, Azure, and GCP effectively",
     "download link": "PENDING",
-    "publish date":"2025-08-01"
+    "publish date":"2025-08-01",
+    "shared by": "Drolord22"
   },
   {
     "title": "C++ Without Fear: A Beginner's Guide That Makes You Feel Smart",
@@ -105,7 +114,8 @@
     "pages number":"615",
     "description": "Have you ever wanted to learn programming? Have you ever wanted to learn the C++ language behind many of today’s hottest games, business programs, and even advanced spacecraft? C++ Without Fear, Third Edition, is the ideal way to get started. Now updated for the newest C++14 standard and the free Microsoft Visual C++ Community Edition, it will quickly make you productive with C++ even if you’ve never written a line of code!",
     "download link": "PENDING",
-    "publish date":"2025-08-01"
+    "publish date":"2025-08-01",
+    "shared by": "Drolord22"
   },
   {
     "title": "Cybersecurity Blue Team Strategies: Uncover the secrets of blue teams to combat cyber threats in your organization",
@@ -117,7 +127,8 @@
     "pages number":"208",
     "description": "This book is for cybersecurity professionals involved in defending an organization’s systems and assets against attacks. Penetration testers, cybersecurity analysts, security leaders, security strategists, and blue team members will find this book helpful. Chief Information Security Officers (CISOs) looking at securing their organizations from adversaries will also benefit from this book. To get the most out of this book, basic knowledge of IT security is recommended.",
     "download link": "PENDING",
-    "publish date":"2025-08-01"
+    "publish date":"2025-08-01",
+    "shared by": "Drolord22"
   },
   {
     "title": "Cyber Threat Intelligence: The No-Nonsense Guide for Cisos and Security Managers",
@@ -129,7 +140,8 @@
     "pages number": "195",
     "description": "Understand the process of setting up a successful cyber threat intelligence (CTI) practice within an established security team. This book shows you how threat information that has been collected, evaluated, and analyzed is a critical component in protecting your organization's resources. Adopting an intelligence-led approach enables your organization to nimbly react to situations as they develop. Security controls and responses can then be applied as soon as they become available, enabling prevention rather than response.",
     "download link":"PENDING",
-    "publish date": "2025-08-02"
+    "publish date": "2025-08-02",
+    "shared by": "Drolord22"
     
   },
   {
@@ -142,7 +154,8 @@
     "pages number": "624",
     "description": "Deep learning is often viewed as the exclusive domain of math PhDs and big tech companies. But as this hands-on guide demonstrates, programmers comfortable with Python can achieve impressive results in deep learning with little math background, small amounts of data, and minimal code. How? With fastai, the first library to provide a consistent interface to the most frequently used deep learning applications.",
     "download link":"PENDING",
-    "publish date": "2025-08-02"
+    "publish date": "2025-08-02",
+    "shared by": "Drolord22"
     
   },
   {
@@ -155,7 +168,46 @@
     "pages number": "274",
     "description": "Functional Programming in JavaScript teaches JavaScript developers functional techniques that will improve extensibility, modularity, reusability, testability, and performance. Through concrete examples and jargon-free explanations, this book teaches you how to apply functional programming to real-life development tasks",
     "download link":"PENDING",
-    "publish date": "2025-08-02"
-    
+    "publish date": "2025-08-02",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "Generative Analysis: The Power of Generative AI for Object-Oriented Software Engineering with UML",
+    "author": "Jim Arlow & Ila Neustadt",
+    "category": "AI",
+    "frontpage": "GenerativeAnalysisThePowerofGenerativeAI.jpg",
+    "publisher": "Addison-Wesley Professional",
+    "release date": "October 11, 2024",
+    "pages number": "674",
+    "description": "Generative AI is revolutionizing software engineering--many aspects of manual coding are becoming automated, and the skills needed by software engineers, developers, and analysts are evolving. Anyone who writes or works with code will need to produce precise analysis artifacts to feed the AI code-generation process. Enter generative analysis: a precise, structured way for software engineers, programmers, and analysts to transition to this new, AI-enhanced software engineering world.",
+    "download link":"PENDING",
+    "publish date": "2025-08-03",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play",
+    "author": "David Foster",
+    "category": "AI",
+    "frontpage": "GenerativeDeepLearning.jpg",
+    "publisher": "O'Reilly Media",
+    "release date": "August 6, 2019",
+    "pages number": "456",
+    "description": "Generative modeling is one of the hottest topics in AI. It’s now possible to teach a machine to excel at human endeavors such as painting, writing, and composing music. With this practical book, machine-learning engineers and data scientists will discover how to re-create some of the most impressive examples of generative deep learning models, such as variational autoencoders,generative adversarial networks (GANs), encoder-decoder models, and world models.",
+    "download link":"PENDING",
+    "publish date": "2025-08-03",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "Get Programming with JavaScript",
+    "author": "John Larsen",
+    "category": "Programming",
+    "frontpage": "GetProgrammingwithJavaScript.jpg",
+    "publisher": "Manning",
+    "release date": "August 9, 2016",
+    "pages number": "436",
+    "description": "Are you ready to start writing your own web apps, games, and programs? You’re in the right place! Get Programming with JavaScript is a hands-on introduction to programming for readers who have never written a line of code. Since you’re just getting started, this friendly book offers you lots of examples backed by careful explanations. As you go along, you’ll find exercises to check your understanding and plenty of opportunities to practice your new skills. You don’t need any­thing special to follow the examples—just the text editor and web browser already installed on your computer. We even give you links to working online code so you can see how everything should look live on your screen.",
+    "download link":"PENDING",
+    "publish date": "2025-08-03",
+    "shared by": "Drolord22"
   }
 ]
