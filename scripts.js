@@ -1,6 +1,6 @@
 let books = [];
 const booksPerPage = 8;
-let currentPage = 1;
+let currentPage = parseInt(new URLSearchParams(window.location.search).get("page")) || 1;
 
 fetch('books.json')
   .then(res => res.json())
@@ -38,7 +38,8 @@ function displayBooks(bookList, page) {
       <a href="${book["download link"] !== "PENDING" ? book["download link"] : "#"}" target="_blank">
         ${book["download link"] !== "PENDING" ? "Download PDF" : "Coming Soon"}
       </a>
-      <p><strong>Publish Date:</strong> ${new Date(book["publish date"]).toLocaleDateString()}</p>
+      <p class="PubDateBy"><span><strong>Publish Date:</strong> ${new Date(book["publish date"]).toLocaleDateString()}</span>
+      <span><strong>Shared by: </strong>${book["shared by"]}</span>
     `;
 
     bookGrid.appendChild(card);
@@ -63,6 +64,13 @@ function setupPagination(bookList) {
       currentPage = i;
       displayBooks(bookList, currentPage);
       setupPagination(bookList);
+      window.scrollTo({ top: 0, behavior: 'instant' });
+      
+      // Actualiza la URL con ?page=n sin recargar
+      const url = new URL(window.location);
+      url.searchParams.set('page', currentPage);
+      window.history.pushState({}, '', url);
+
       window.scrollTo({ top: 0, behavior: 'instant' });
     });
 
