@@ -209,5 +209,44 @@
     "download link":"PENDING",
     "publish date": "2025-08-03",
     "shared by": "Drolord22"
+  },
+  {
+    "title": "Learn C the Hard Way: Practical Exercises on the Computational Subjects You Keep Avoiding (Like C)",
+    "author": "Zed Shaw",
+    "category": "Programming",
+    "frontpage": "LearnCTheHardWay.png",
+    "publisher": "Addison-Wesley Professional",
+    "release date": "September 4, 2015",
+    "pages number": "385",
+    "description": "In Learn C the Hard Way, you’ll learn C by working through 52 brilliantly crafted exercises. Watch Zed Shaw’s teaching video and read the exercise. Type his code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn what good, modern C programs look like; how to think more effectively about code; and how to find and fix mistakes far more efficiently. Most importantly, you’ll master rigorous defensive programming techniques, so you can use any language to create software that protects itself from malicious activity and defects.",
+    "download link":"PENDING",
+    "publish date": "2025-08-05",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "GraphQL Best Practices",
+    "author": "Artur Czemiel",
+    "category": "Programming",
+    "frontpage": "GraphQLBestPractices.jpg",
+    "publisher": "Packt Publishing",
+    "release date": "October 11, 2024",
+    "pages number": "422",
+    "description": "In the ever-evolving landscape of web development, GraphQL has emerged as a powerful query language that addresses the limitations of traditional REST APIs. This guide delves deep into GraphQL, starting with its foundational principles and swiftly advancing to complex topics that will equip you with the skills you need to understand this technology.",
+    "download link":"PENDING",
+    "publish date": "2025-08-05",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "Ghidra Software Reverse Engineering for Beginners: Analyze, identify, and avoid malicious code and potential threats in your networks and systems",
+    "author": "David Álvarez Pérez",
+    "category": "Cybersecurity",
+    "frontpage": "ReverseEngineering.jpg",
+    "publisher": "Packt Publishing",
+    "release date": "8 enero 2021",
+    "pages number": "322",
+    "description": "Ghidra, an open source software reverse engineering (SRE) framework created by the NSA research directorate, enables users to analyze compiled code on any platform, whether Linux, Windows, or macOS. This book is a starting point for developers interested in leveraging Ghidra to create patches and extend tool capabilities to meet their cybersecurity needs.",
+    "download link":"PENDING",
+    "publish date": "2025-08-05",
+    "shared by": "Drolord22"
   }
 ]
