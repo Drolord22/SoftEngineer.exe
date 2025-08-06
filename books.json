@@ -52,7 +52,7 @@
     "publish date":"2025-07-29",
     "shared by": "Drolord22"
   },
-    {
+  {
     "title": "C# and Algorithmic Thinking for the Complete Beginner Learn to Think Like a Programmer",
     "author": "Aristides Bouras",
     "category": "Programming",
@@ -65,7 +65,7 @@
     "publish date":"2025-07-29",
     "shared by": "Drolord22"
   },
-    {
+  {
     "title": "Certified Information Security Manager Exam Prep Guide - Second Edition: Gain the confidence to pass the CISM exam using test-oriented study material",
     "author": "Hemang Doshi",
     "category": "Cybersecurity",
@@ -78,7 +78,7 @@
     "publish date":"2025-07-29",
     "shared by": "Drolord22"
   },
-    {
+  {
     "title": "C# Interview Guide: Boost your confidence with answers to hundreds of secret interview questions",
     "author": "Konstantin Semenenko",
     "category": "Programming",
@@ -247,6 +247,45 @@
     "description": "Ghidra, an open source software reverse engineering (SRE) framework created by the NSA research directorate, enables users to analyze compiled code on any platform, whether Linux, Windows, or macOS. This book is a starting point for developers interested in leveraging Ghidra to create patches and extend tool capabilities to meet their cybersecurity needs.",
     "download link":"PENDING",
     "publish date": "2025-08-05",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "Low-Code AI: A Practical Project-Driven Introduction to Machine",
+    "author": "Gwendolyn Stripling & Michael Abel",
+    "category": "AI",
+    "frontpage": "Low-CodeAI.png",
+    "publisher": "O'Reilly Media",
+    "release date": "October 17, 2023",
+    "pages number": "328",
+    "description": "Take a data-first and use-case-driven approach with Low-Code AI to understand machine learning and deep learning concepts. This hands-on guide presents three problem-focused ways to learn no-code ML using AutoML, low-code using BigQuery ML, and custom code using scikit-learn and Keras. In each case, you'll learn key ML concepts by using real-world datasets with realistic problems.",
+    "download link":"PENDING",
+    "publish date": "2025-08-06",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "Microsoft Azure Network Security",
+    "author": "Nicholas Dicola & Anthony Roman",
+    "category": "Cybersecurity",
+    "frontpage": "MicrosoftAzureNetworkSecurity.png",
+    "publisher": "Microsoft Press",
+    "release date": "June 14, 2021",
+    "pages number": "205",
+    "description": "Network security is crucial to safely deploying and managing Azure cloud resources in any environment. Now, two of Microsoft's leading experts present a comprehensive, cloud-native approach to protecting your network, and safeguarding all your Azure systems and assets. Nicholas DiCola and Anthony Roman begin with a thoughtful overview of network security's role in the cloud. Next, they offer practical, real-world guidance on deploying cloud-native solutions for firewalling, DDOS, WAF, and other foundational services - all within a best-practice secure network architecture based on proven design patterns.",
+    "download link":"PENDING",
+    "publish date": "2025-08-06",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "Pentesting APIs: A practical guide to discovering, fingerprinting, and exploiting APIs",
+    "author": "Maurício Harley",
+    "category": "Hacking",
+    "frontpage": "PentestingAPIS.png",
+    "publisher": "Packt Publishing",
+    "release date": "September 27, 2024",
+    "pages number": "290",
+    "description": "Understanding API security is crucial as APIs form the backbone of modern interconnected applications, making them prime targets for cyberattacks. Drawing on nearly 30 years of cybersecurity experience and an extensive background in network security and forensic analysis, this book provides the knowledge and tools to strengthen your API security practices and protect against cyber threats comprehensively.",
+    "download link":"PENDING",
+    "publish date": "2025-08-06",
     "shared by": "Drolord22"
   }
 ]
