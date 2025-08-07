@@ -96,6 +96,27 @@ function search(event) {
     book.category.toLowerCase().includes(input)
   );
   currentPage = 1;
-  displayBooks(filtered, currentPage);
-  setupPagination(filtered);
+
+  const container = document.getElementById('book-container');
+  container.innerHTML = ''; // Limpiar resultados anteriores
+
+  if (filtered.length === 0) {
+    // Si no hay coincidencias, mostrar mensaje
+    const message = document.createElement('p');
+    message.textContent = '❌ No search coincidences found ❌';
+    message.style.color = 'white';
+    message.style.padding = '20px';
+    message.style.textAlign = 'center';
+    message.style.fontSize = '72px';
+    message.style.fontWeight = 'bold';
+    container.appendChild(message);
+
+    // También podrías ocultar la paginación si quieres
+    document.getElementById('pagination').innerHTML = '';
+  } else {
+    displayBooks(filtered, currentPage);
+    setupPagination(filtered);
+  }
+  document.getElementById('searchInput').value = ''; // Limpiar el campo de búsqueda
 }
+
