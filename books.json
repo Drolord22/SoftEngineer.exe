@@ -276,16 +276,42 @@
     "shared by": "Drolord22"
   },
   {
-    "title": "Pentesting APIs: A practical guide to discovering, fingerprinting, and exploiting APIs",
-    "author": "Maurício Harley",
-    "category": "Hacking",
-    "frontpage": "PentestingAPIS.png",
+    "title": "Practical Cybersecurity Architecture: A guide to creating and implementing robust designs for cybersecurity architects",
+    "author": "Ed Moyle & Diana Kelley",
+    "category": "Cybersecurity",
+    "frontpage": "PracticalCybersecurityArchitecture.png",
     "publisher": "Packt Publishing",
-    "release date": "September 27, 2024",
-    "pages number": "290",
-    "description": "Understanding API security is crucial as APIs form the backbone of modern interconnected applications, making them prime targets for cyberattacks. Drawing on nearly 30 years of cybersecurity experience and an extensive background in network security and forensic analysis, this book provides the knowledge and tools to strengthen your API security practices and protect against cyber threats comprehensively.",
+    "release date": "November 20, 2020",
+    "pages number": "418",
+    "description": "Cybersecurity architects work with others to develop a comprehensive understanding of the business' requirements. They work with stakeholders to plan designs that are implementable, goal-based, and in keeping with the governance strategy of the organization.",
     "download link":"PENDING",
-    "publish date": "2025-08-06",
+    "publish date": "2025-08-07",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "PostgreSQL: Up and Running: A Practical Guide to the Advanced Open Source Database",
+    "author": "Regina O. Obe & Leo S. Hsu",
+    "category": "Databases",
+    "frontpage": "PostgreSQLUpAndRunning.png",
+    "publisher": "O'Reilly Media",
+    "release date": "November 28, 2017",
+    "pages number": "310",
+    "description": "Thinking of migrating to PostgreSQL? This clear, fast-paced introduction helps you understand and use this open source database system. Not only will you learn about the enterprise class features in versions 9.5 to 10, you will also discover that PostgeSQL is more than a database system, it is an impressive application platform as well.",
+    "download link":"PENDING",
+    "publish date": "2025-08-07",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "Programming APIs with C# and .NET: Develop high-performance APIs that ensure seamless application communication and enhanced security",
+    "author": "Jesse Liberty & Joseph Dluzen",
+    "category": "Programming",
+    "frontpage": "ProgrammingAPIsWithCSharpAndDotNet.png",
+    "publisher": "Packt Publishing",
+    "release date": "November 29, 2024",
+    "pages number": "166",
+    "description": "APIs are at the heart of modern software development, enabling seamless communication between applications. In the C# and .NET ecosystem, mastering API development is key to building scalable, reliable systems that meet both client and enterprise needs.",
+    "download link":"PENDING",
+    "publish date": "2025-08-07",
     "shared by": "Drolord22"
   }
 ]
