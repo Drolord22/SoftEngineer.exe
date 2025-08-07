@@ -1,14 +1,22 @@
 let books = [];
 const booksPerPage = 8;
 let currentPage = parseInt(new URLSearchParams(window.location.search).get("page")) || 1;
+const urlParams = new URLSearchParams(window.location.search);
+const selectedCategory = urlParams.get("category") || "All";
 
 fetch('books.json')
   .then(res => res.json())
   .then(data => {
     books = data;
     books.sort((a, b) => new Date(b["publish date"]) - new Date(a["publish date"]));
-    displayBooks(books, currentPage);
-    setupPagination(books);
+    let filteredBooks = books;
+    if (selectedCategory !== 'All') {
+      filteredBooks = books.filter(book =>
+      book.category.toLowerCase() === selectedCategory.toLowerCase()
+      );
+    }
+    displayBooks(filteredBooks, currentPage);
+    setupPagination(filteredBooks);
   });
 
 function displayBooks(bookList, page) {
