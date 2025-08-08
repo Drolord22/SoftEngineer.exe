@@ -1,4 +1,5 @@
 body {
+    background-color: #272729;
     font-family: Arial, sans-serif; /* Font family for the body */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
@@ -49,11 +50,10 @@ main {
     background-color: #272729;
 }
 
-.tabLogo{
-    /*Con esta de aqui puedes modificar los logos de cada tab
-    Usa el background-color para que puedas ver el tamaño de los bloques de las imagenes*/
-    
-}
+/* .tabLogo{
+    Con esta de aqui puedes modificar los logos de cada tab
+    Usa el background-color para que puedas ver el tamaño de los bloques de las imagenes
+} */
 
 main{
     color: rgb(255, 255, 255);
