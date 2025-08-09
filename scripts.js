@@ -15,6 +15,11 @@ fetch('books.json')
       book.category.toLowerCase() === selectedCategory.toLowerCase()
       );
     }
+    
+    const welcomeSection = document.querySelector('.welcome');
+    if (welcomeSection) {
+      welcomeSection.style.display = selectedCategory === 'All' ? 'block' : 'none';
+    }
     displayBooks(filteredBooks, currentPage);
     setupPagination(filteredBooks);
   });
@@ -97,8 +102,18 @@ function search(event) {
   );
   currentPage = 1;
 
+  // Eliminar banner si realizas una búsqueda
+  const banner = document.querySelector('.category-banner');
+  if (banner) banner.style.display = 'none';
+
+  // Mostrar banner de búsqueda SIEMPRE
+  const searchBannerContainer = document.querySelector('.search-banner');
+  if (searchBannerContainer) searchBannerContainer.style.display = 'block';
+
+  // Limpiar contenedor antes de mostrar resultados o mensaje
   const container = document.getElementById('book-container');
-  container.innerHTML = ''; // Limpiar resultados anteriores
+  container.innerHTML = '';
+
 
   if (filtered.length === 0) {
     // Si no hay coincidencias, mostrar mensaje
@@ -107,11 +122,20 @@ function search(event) {
     message.style.color = 'white';
     message.style.padding = '20px';
     message.style.textAlign = 'center';
-    message.style.fontSize = '72px';
+    message.style.fontSize = '56px';
     message.style.fontWeight = 'bold';
     container.appendChild(message);
 
-    // También podrías ocultar la paginación si quieres
+    const message2 = document.createElement('p2');
+    message2.textContent = 'You might try search with another keyword.';
+    message2.style.color = 'white';
+    message2.style.padding = '5px';
+    message2.style.textAlign = 'center';
+    message2.style.fontSize = '24px';
+    message2.style.fontStyle = 'italic';
+    container.appendChild(message2);
+
+    // Ocultar la paginación si no hay resultados
     document.getElementById('pagination').innerHTML = '';
   } else {
     displayBooks(filtered, currentPage);
@@ -120,3 +144,28 @@ function search(event) {
   document.getElementById('searchInput').value = ''; // Limpiar el campo de búsqueda
 }
 
+
+// Cambiar imagen de subtitulo según la categoría seleccionada o al buscar en SearchBar
+const categoryImages = {
+  "All": "src/tabs titles/HOMEPAGE.webp",
+  "Programming": "src/tabs titles/PROGRAMMING.webp",
+  "Cybersecurity": "src/tabs titles/CYBERSECURITY.webp",
+  "Databases": "src/tabs titles/DATABASES.webp",
+  "OS": "src/tabs titles/OS.webp",
+  "Hacking": "src/tabs titles/HACKING.webp",
+  "AI": "src/tabs titles/AI.webp"
+};
+
+function updateCategoryImage(category) {
+  const BannerSubtle = document.getElementById('categoryImage');
+  BannerSubtle.src = categoryImages[category] || categoryImages["All"];
+}
+
+function getCategoryFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get("category") || "All";
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+updateCategoryImage(getCategoryFromURL());
+});
