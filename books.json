@@ -352,6 +352,18 @@
     "download link":"PENDING",
     "publish date": "2025-08-08",
     "shared by": "Drolord22"
-  }
-  
+  },
+  {
+  "title": "Operating Systems: Three Easy Pieces",
+  "author": "Remzi H. Arpaci-Dusseau & Andrea C. Arpaci-Dusseau",
+  "category": "Operating Systems",
+  "frontpage": "OperatingSystemsThreeEasyPieces.jpg",
+  "publisher": "Arpaci-Dusseau Books, LLC",
+  "release date": "September 1, 2018",
+  "pages number": "714",
+  "description": "OSTEP ('Oh Step'), or the 'the comet book', is a widely used textbook that introduces key concepts in Operating Systems in an accessible way. Organized into three sections—virtualization, concurrency, and persistence—this book provides students and professionals with a clear understanding of OS principles. Written by professors at the University of Wisconsin–Madison, it blends academic rigor with practical clarity.",
+  "download link": "PENDING",
+  "publish date": "2025-08-07",
+  "shared by": "Yael-Munoz"
+  }  
 ]
