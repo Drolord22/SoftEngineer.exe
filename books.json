@@ -313,5 +313,45 @@
     "download link":"PENDING",
     "publish date": "2025-08-07",
     "shared by": "Drolord22"
+  },
+  {
+    "title": "Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs",
+    "author": "Sinan Ozdemir",
+    "category": "AI",
+    "frontpage": "QuickStartGuidetoLargeLanguageModels.png",
+    "publisher": "Addison-Wesley Data & Analytics Series",
+    "release date": "September 11, 2023",
+    "pages number": "386",
+    "description": "Large Language Models (LLMs) like ChatGPT are demonstrating breathtaking capabilities, but their size and complexity have deterred many practitioners from applying them. In Quick Start Guide to Large Language Models, pioneering data scientist and AI entrepreneur Sinan Ozdemir clears away those obstacles and provides a guide to working with, integrating, and deploying LLMs to solve practical problems.",
+    "download link":"PENDING",
+    "publish date": "2025-08-08",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "Rails Crash Course: A No-Nonsense Guide to Rails Development",
+    "author": "Anthony Lewis",
+    "category": "Programming",
+    "frontpage": "RailsCrashCourse.png",
+    "publisher": "Addison-Wesley Data & Analytics Series",
+    "release date": "October 08, 2014",
+    "pages number": "298",
+    "description": "Rails is a robust, flexible development platform that lets you build complex websites quickly. Major websites like GitHub, Hulu, and Twitter have run Rails under the hood, and if you know just enough HTML and CSS to be dangerous, Rails Crash Course will teach you to harness Rails for your own projects and create web applications that are fast, stable, and secure.",
+    "download link":"PENDING",
+    "publish date": "2025-08-08",
+    "shared by": "Drolord22"
+  },
+  {
+    "title": "React Hooks in Action: With Suspense and Concurrent Mode",
+    "author": "John Larsen",
+    "category": "Programming",
+    "frontpage": "ReactHooksInAction.png",
+    "publisher": "Manning",
+    "release date": "April 13, 2021",
+    "pages number": "376",
+    "description": "Build stylish, slick, and speedy-to-load user interfaces in React without writing custom classes. React Hooks are a new category of functions that help you to manage state, lifecycle, and side effects within functional components. React Hooks in Action teaches you to use pre-built hooks like useState, useReducer and useEffect to build your own hooks. Your code will be more reusable, require less boilerplate, and you’ll instantly be a more effective React developer.",
+    "download link":"PENDING",
+    "publish date": "2025-08-08",
+    "shared by": "Drolord22"
   }
+  
 ]

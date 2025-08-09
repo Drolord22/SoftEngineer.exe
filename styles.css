@@ -50,10 +50,20 @@ main {
     background-color: #272729;
 }
 
+
 /* .tabLogo{
     Con esta de aqui puedes modificar los logos de cada tab
     Usa el background-color para que puedas ver el tamaño de los bloques de las imagenes
 } */
+ 
+.welcome {
+    padding: 20px; /* Padding for main content */
+    text-align: center; /* Centered text */
+    background-color: #353535;
+    color: white;
+}
+
+
 
 main{
     color: rgb(255, 255, 255);
@@ -198,4 +208,28 @@ p1 {
 
 .search-container button:hover {
   background-color: #204d80;
+}
+
+.category-banner {
+    background-color: #1f202c;
+    text-align: center;
+}
+
+.category-banner img {
+    width: 20%;
+    height: auto;
+    object-fit: cover;
+}
+
+.search-banner {
+    background-color: #1f202c;
+    text-align: center;
+    display: none;
+    
+}
+
+.search-banner img {
+    width: 20%;
+    height: auto;
+    object-fit: cover;
 }
