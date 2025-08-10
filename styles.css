@@ -235,7 +235,7 @@ p1 {
 }
 
 .instructions{
-  background-color: #17a742;
+  /* valores de prueba para simular la imagen y el esqueleto de la tab de help */
   display: flex;
   align-items: flex-start;
   gap: 20px;
@@ -244,11 +244,18 @@ p1 {
 
 }
 .instructions img{ 
-  /* valores de prueba */
-  width: 25vw; 
+  /* valores de prueba  en la tab help*/
+  background-color: #2c80b4;
+  width: 20vw; 
   height: 25vh;
+  margin-right: 50px;
+}
+.instructions p{
+  /* nomas para que se entienda que selecciona este selector en la tab help*/
+  background-color: #a4a6b6;
 }
 #headerGuide{
+  /* nomas para que se entienda que selecciona este selector en la tab help */
   background-color: #24b02b;
   margin-bottom: 50px;
   padding: 15px;
