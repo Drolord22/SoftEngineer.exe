@@ -365,5 +365,45 @@
   "download link": "PENDING",
   "publish date": "2025-08-07",
   "shared by": "Yael-Munoz"
-  }  
+  },
+  {
+  "title": "Ruby on Rails Tutorial: Learn Web Development with Rails (Addison-Wesley Professional Ruby Series)",
+  "author": "Michael Hartl",
+  "category": "Programming",
+  "frontpage": "RubyOnRailsTutorial.png",
+  "publisher": "Addison-Wesley Professional",
+  "release date": "January 1, 2023",
+  "pages number": "889",
+  "description": "Used by sites as varied as Hulu, GitHub, Shopify, and Airbnb, Ruby on Rails is one of the most popular frameworks for developing web applications, but it can be challenging to learn and use. Whether you're new to web development or new only to Rails, Ruby on RailsTM Tutorial, Seventh Edition, is the solution.",
+  "download link": "PENDING",
+  "publish date": "2025-08-11",
+  "shared by": "Drolord22"
+  },
+  {
+  "title": "Ruby by Example: Concepts and Code",
+  "author": "Kevin C. Baird",
+  "category": "Programming",
+  "frontpage": "RubyByExample.png",
+  "publisher": "No Starch Press",
+  "release date": "June 8, 2007",
+  "pages number": "313",
+  "description": "There may be no better way to learn how to program than by dissecting real, representative examples written in your language of choice. Ruby by Example analyzes a series of Ruby scripts, examining how the code works, explaining the concepts it illustrates, and showing how to modify it to suit your needs. Baird's examples demonstrate key features of the language (such as inheritance, encapsulation, higher-order functions, and recursion), while simultaneously solving difficult problems (such as validating XML, creating a bilingual program, and creating command-line interfaces).",
+  "download link": "PENDING",
+  "publish date": "2025-08-11",
+  "shared by": "Drolord22"
+  },
+  {
+  "title": "Beginning C++ Game Programming: Learn C++ from scratch by building fun games",
+  "author": "John Horton",
+  "category": "Programming",
+  "frontpage": "BeginningC++GameProgramming.png",
+  "publisher": "Packt Publishing",
+  "release date": "May 31, 2024",
+  "pages number": "659",
+  "description": "Always dreamed of creating your own games? With the third edition of Beginning C++ Game Programming, you can turn that dream into reality! This beginner-friendly guide is updated and improved to include the latest features of VS 2022, SFML, and modern C++20 programming techniques. You'll get a fun introduction to game programming by building four fully playable games of increasing complexity. You'll build clones of popular games such as Timberman, Pong, a Zombie survival shooter, and an endless runner.",
+  "download link": "PENDING",
+  "publish date": "2025-08-11",
+  "shared by": "Drolord22"
+  }
+
 ]
