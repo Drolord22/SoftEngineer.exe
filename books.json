@@ -404,6 +404,45 @@
   "download link": "PENDING",
   "publish date": "2025-08-11",
   "shared by": "Drolord22"
+  },
+  {
+  "title": "Securing 5G and Evolving Architectures",
+  "author": "Pramod Nair",
+  "category": "Cybersecurity",
+  "frontpage": "Securing5G.png",
+  "publisher": "Addison-Wesley Professional",
+  "release date": "December 10, 2021",
+  "pages number": "619",
+  "description": "Securing 5G and Evolving Architectures is for technical and management audiences at all levels of 5G experience---from enterprise and security architects to network engineers, cloud computing and data center professionals, to CSO and CTO teams.",
+  "download link": "PENDING",
+  "publish date": "2025-08-12",
+  "shared by": "Drolord22"
+  },
+  {
+  "title": "The C++ Workshop: Learn to write clean, maintainable code in C++ and advance your career in software engineering",
+  "author": "Dale Green, Kurt Guntheroth & Shaun Ross Mitchell",
+  "category": "Programming",
+  "frontpage": "TheC++Workshop.png",
+  "publisher": "Packt Publishing",
+  "release date": "February 7, 2020",
+  "pages number": "605",
+  "description": "Learn to create high-performance, error-free programs by understanding the core principles and techniques behind programming in C++. The C++ Workshop begins by explaining the basic structure of a C++ application, showing you how to write and run your first program to understand data types, operators, variables and the flow of control structures. You'll also see how to make smarter decisions when it comes to using storage space by declaring dynamic variables during program runtime.",
+  "download link": "PENDING",
+  "publish date": "2025-08-12",
+  "shared by": "Drolord22"
+  },
+  {
+  "title": "C++ High Performance: Master the art of optimizing the functioning of your C++ code",
+  "author": "Bjorn Andrist, Viktor Sehr & Ben Garney",
+  "category": "Programming",
+  "frontpage": "C++HighPerformance.png",
+  "publisher": "Packt Publishing",
+  "release date": "December 30, 2020",
+  "pages number": "545",
+  "description": "A comprehensive guide to help aspiring and professional C++ developers elevate the performance of their apps by allowing them to run faster and consume fewer resources. C++ High Performance, Second Edition intends to guide you through optimizing the performance of your C++ apps by allowing them to run faster and consume fewer resources on the device they're running on without compromising the readability of your codebase.",
+  "download link": "PENDING",
+  "publish date": "2025-08-12",
+  "shared by": "Drolord22"
   }
 
 ]
