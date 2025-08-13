@@ -40,20 +40,25 @@ function displayBooks(bookList, page) {
     card.classList.add('book');
 
     card.innerHTML = `
-      <h2>${book.title}</h2>
-      <img src="src/frontpages/${book.frontpage}" alt="${book.title} style" class="book-image">
-      <p><strong>Publisher:</strong> ${book.publisher}</p>
-      <p><strong>Release Date:</strong> ${new Date(book["release date"]).toLocaleDateString()}</p>
-      <p><strong>Author:</strong> ${book.author}</p>
-      <p><strong>Category:</strong> ${book.category}</p>
-      <p><strong>Pages:</strong> ${book["pages number"]}</p>
-      <p class="DescriptionJustified">${book.description}</p>
-      <a href="${book["download link"] !== "PENDING" ? book["download link"] : "#"}" target="_blank">
-        ${book["download link"] !== "PENDING" ? "Download PDF" : "Coming Soon"}
-      </a>
-      <p class="PubDateBy"><span><strong>Publish Date:</strong> ${new Date(book["publish date"]).toLocaleDateString()}</span>
-      <span><strong>Shared by: </strong>${book["shared by"]}</span>
-    `;
+  <h2>${book.title}</h2>
+  <img src="src/frontpages/${book.frontpage}" alt="${book.title} style" class="book-image">
+  <p><strong>Publisher:</strong> ${book.publisher}</p>
+  <p><strong>Release Date:</strong> ${new Date(book["release date"]).toLocaleDateString()}</p>
+  <p><strong>Author:</strong> ${book.author}</p>
+  <p><strong>Category:</strong> ${book.category}</p>
+  <p><strong>Pages:</strong> ${book["pages number"]}</p>
+  <p class="DescriptionJustified">${book.description}</p>
+
+  <div class="book-footer">
+    <a href="${book["download link"] !== "PENDING" ? book["download link"] : "#"}" target="_blank">
+      ${book["download link"] !== "PENDING" ? "Download PDF" : "Coming Soon"}
+    </a>
+    <p class="PubDateBy">
+      <span><strong>Publish Date:</strong> ${new Date(book["publish date"]).toLocaleDateString()}</span>
+      <span><strong>Shared by:</strong> ${book["shared by"]}</span>
+    </p>
+  </div>
+`;
 
     bookGrid.appendChild(card);
   });

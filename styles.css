@@ -89,6 +89,8 @@ p1 {
   padding: 40px;
   border-radius: 50px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
 }
 
 .book h2 {
@@ -123,6 +125,17 @@ p1 {
   .book {
     width: 100%;
   }
+}
+
+.book-image {
+    width: 75%;
+    height: auto;
+    margin: 0 auto; /* Center horizontally */
+    display: block; /* Required for margin auto to work */
+}
+
+.book-footer {
+  margin-top: auto;
 }
 
 .pagination {
