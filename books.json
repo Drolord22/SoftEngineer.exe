@@ -443,6 +443,32 @@
   "download link": "PENDING",
   "publish date": "2025-08-12",
   "shared by": "Drolord22"
+  },
+  {
+  "title": "Simplifying JavaScript: Writing Modern JavaScript with ES5, ES6, and Beyond",
+  "author": "Joe Morgan",
+  "category": "Programming",
+  "frontpage": "SimplifyingJavascript.png",
+  "publisher": "Pragmatic Bookshelf",
+  "release date": "May 22, 2018",
+  "pages number": "279",
+  "description": "The best modern JavaScript is simple, readable, and predictable. Learn to write modern JavaScript not by memorizing a list of new syntax, but with practical examples of how syntax changes can make code more expressive. Starting from variable declarations that communicate intention clearly, see how modern principles can improve all parts of code. Incorporate ideas with curried functions, array methods, classes, and more to create code that does more with less while yielding fewer bugs.",
+  "download link": "PENDING",
+  "publish date": "2025-08-13",
+  "shared by": "Drolord22"
+  },
+  {
+  "title": "Spring Boot 3.0 Cookbook: Proven recipes for building modern and robust Java web applications with Spring Boot",
+  "author": "Felip Miguel Puig",
+  "category": "Programming",
+  "frontpage": "SpringBoot3Dot0Cookbook.png",
+  "publisher": "Packt Publishing",
+  "release date": "July 12, 2024",
+  "pages number": "426",
+  "description": "Tackle the complexities of modern web applications by understanding the uses of Spring Boot's cloud design patterns to build scalable and resilient applications. In today's dynamic landscape, crafting robust and scalable Java web applications presents formidable challenges. Spring Boot emerges as the leading framework for web and microservices development, featuring a dynamic ecosystem and seamless integrations to address a spectrum of scenarios, from scaling apps on the cloud to deploying them to production. In this book, you’ll explore its streamlined, convention-over-configuration approach, simplifying application development.",
+  "download link": "PENDING",
+  "publish date": "2025-08-13",
+  "shared by": "Drolord22"
   }
 
 ]
