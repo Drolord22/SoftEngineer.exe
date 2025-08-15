@@ -50,8 +50,8 @@ function displayBooks(bookList, page) {
   <p class="DescriptionJustified">${book.description}</p>
 
   <div class="book-footer">
-    <a href="${book["download link"] !== "PENDING" ? book["download link"] : "#"}" target="_blank">
-      ${book["download link"] !== "PENDING" ? "Download PDF" : "Coming Soon"}
+    <a href="${book["download link"] !== "PENDING" ? book["download link"] : "#"}" target="_blank"> ${book["download link"] !== "PENDING" ? 
+      "Download PDF" : "Coming Soon"} 
     </a>
     <p class="PubDateBy">
       <span><strong>Publish Date:</strong> ${new Date(book["publish date"]).toLocaleDateString()}</span>
