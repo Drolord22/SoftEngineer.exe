@@ -469,6 +469,19 @@
   "download link": "PENDING",
   "publish date": "2025-08-13",
   "shared by": "Drolord22"
+  },
+  {
+  "title": "Pentesting API's: A practical guide to discovering, fingerprinting and exploting API's",
+  "author": "Mauricio Harley",
+  "category": "Hacking",
+  "frontpage": "PentestingAPIS.png",
+  "publisher": "Packt Publishing",
+  "release date": "September 27, 2024",
+  "pages number": "290",
+  "description": "This book begins by establishing a foundational understanding of APIs, particularly focusing on REST and GraphQL, emphasizing their critical role and potential security vulnerabilities. It guides you through setting up a penetration testing environment to ensure the practical application of concepts.",
+  "download link": "PENDING",
+  "publish date": "2025-08-16",
+  "shared by": "Drolord22"
   }
 
 ]
