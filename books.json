@@ -482,6 +482,32 @@
   "download link": "PENDING",
   "publish date": "2025-08-16",
   "shared by": "Drolord22"
-  }
+  },
+  {
+  "title": "Shell Programming in Unix, Linux and OS X - Fourth Edition",
+  "author": "Stephen G. Kochan & Patrick Wood",
+  "category": "OS",
+  "frontpage": "Shell Programming in Unix, Linux and OS X - Fourth Edition.jpg",
+  "publisher": "Addison-Wesley Professional",
+  "release date": "August 30, 2016",
+  "pages number": "416",
+  "description": "This thoroughly revised fourth edition presents shell scripting across major Unix-based systems including Linux, macOS (OS X), and Solaris. It guides readers through essential concepts like variables, control structures, functions, debugging, and advanced features such as regular expressions and shell environment customization. Suitable for both beginners and seasoned users.",
+  "download link": "PENDING",
+  "publish date": "2025-08-16",
+  "shared by": "Yael"
+},
+{
+  "title": "TCP-IP Illustrated, Volume 1 The Protocols, Second Edition",
+  "author": "W. Richard Stevens & Kevin R. Fall",
+  "category": "OS",
+  "frontpage": "TCP-IP Illustrated, Volume 1 The Protocols, Second Edition.jpg",
+  "publisher": "Addison‑Wesley Professional",
+  "release date": "November 15, 2011",
+  "pages number": "1056",
+  "description": "An updated, richly illustrated and deeply technical guide to the TCP/IP protocol suite. Building on Stevens’ classic first edition, Kevin R. Fall expands coverage to modern networking topics—IPv6, DHCP, NAT, firewalls, security protocols, and more—using real-world examples and packet traces to show how protocols function and why.",
+  "download link": "PENDING",
+  "publish date": "2025-08-16",
+  "shared by": "Yael"
+}
 
 ]
