@@ -271,7 +271,7 @@ p1 {
 .instructions{
   /* valores de prueba para simular la imagen y el esqueleto de la tab de help */
   display: flex;
-  min-width: 90%;
+  width: 90%;
   align-items: flex-start;
   gap: 20px;
   margin-bottom: 30px;
@@ -283,7 +283,7 @@ p1 {
   justify-content: flex-start;
   
   padding: 10px;
-  min-width: 500px;
+  
   text-align: left; /* Add this line */
 }
 
