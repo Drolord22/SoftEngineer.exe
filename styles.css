@@ -306,3 +306,33 @@ p1 {
   margin-bottom: 50px;
   padding: 15px;
 }
+
+#footer {
+  background-color: #1a1a2e; /* Dark navy background */
+  color: #ccc; /* Light gray text */
+  font-size: 0.9em;
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #333; /* Optional subtle top border */
+}
+
+#footer p{
+margin: 8px 0;
+}
+#footerLink{
+  display: inline-block;
+  color: #76c7c0;            /* Override old muted brown */
+  text-decoration: none;     /* Keep: no underline */
+  padding: 10px 20px;        /* Adjust: more balanced padding */
+  font-weight: bold;         /* Keep */
+  font-family: Arial, sans-serif; /* Keep, but fallback added */
+  background-color: #2e2e3a; /* New: subtle dark background */
+  border-radius: 6px;        /* New: rounded corners */
+  transition: transform 0.2s ease, color 0.2s ease, background-color 0.2s ease;
+}
+
+#footerLink:hover {
+  color: #a8fff3;                /* Hover text color */
+  background-color: #3e3e50;     /* Hover background */
+  transform: translateY(-2px);   /* Subtle movement */
+}
