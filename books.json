@@ -1,4 +1,17 @@
 [
+    {
+    "title": "Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith",
+    "author": "Sam Newman",
+    "category": "Programming",
+    "frontpage": "MonolithToMicroservices.jpg",
+    "publisher": "O'Reilly Media",
+    "release date": "December 24, 2019",
+    "pages number":"272",
+    "description": "How do you detangle a monolithic system and migrate it to a microservice architecture? How do you do it while maintaining business-as-usual? As a companion to Sam Newman’s extremely popular Building Microservices, this new book details a proven method for transitioning an existing monolithic system to a microservice architecture.",
+    "download link": "https://pastebin.com/gqC2KGdZ",
+    "publish date":"2025-08-23",
+    "shared by": "Drolord22"
+  },
   {
     "title": "AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence",
     "author": "Laurence Moroney",
