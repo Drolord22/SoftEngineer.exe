@@ -308,31 +308,57 @@ p1 {
 }
 
 #footer {
-  background-color: #1a1a2e; /* Dark navy background */
-  color: #ccc; /* Light gray text */
-  font-size: 0.9em;
+  background-color: #1a1a2e;
+  color: #ccc;
+  font-size: 16px;
   padding: 20px;
   text-align: center;
-  border-top: 1px solid #333; /* Optional subtle top border */
+  border-top: 1px solid #333;
+  font-family: 'Segoe UI', Arial, sans-serif;
 }
 
-#footer p{
-margin: 8px 0;
+#footer p {
+  margin: 8px 0;
 }
-#footerLink{
+
+.footer-button {
   display: inline-block;
-  color: #76c7c0;            /* Override old muted brown */
-  text-decoration: none;     /* Keep: no underline */
-  padding: 10px 20px;        /* Adjust: more balanced padding */
-  font-weight: bold;         /* Keep */
-  font-family: Arial, sans-serif; /* Keep, but fallback added */
-  background-color: #2e2e3a; /* New: subtle dark background */
-  border-radius: 6px;        /* New: rounded corners */
+  text-decoration: none;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 6px;
   transition: transform 0.2s ease, color 0.2s ease, background-color 0.2s ease;
+  background-color: #2e2e3a;
+  color: #76c7c0;
 }
 
-#footerLink:hover {
-  color: #a8fff3;                /* Hover text color */
-  background-color: #3e3e50;     /* Hover background */
-  transform: translateY(-2px);   /* Subtle movement */
+.footer-button:hover {
+  color: #a8fff3;
+  background-color: #3e3e50;
+  transform: translateY(-2px);
+}
+
+.footer-button.donation {
+  background-color: #66ff00;
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(59, 59, 59, 0.4);
+}
+
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.10); }
+  100% { transform: scale(1); }
+}
+
+.footer-button.donation {
+  animation: pulse 1s infinite;
+}
+
+.ad-under-nav {
+text-align: center;
+}
+
+.ad-under-bookcontainer {
+text-align: center;
 }
