@@ -1,4 +1,17 @@
-[
+[  
+  {
+    "title": "Sustainable Cloud Development: Optimize cloud workloads for environmental impact in the GenAI era",
+    "author": "Parth Girish Patel, Ishneet Kaur Dua & Steven David",
+    "category": "AI",
+    "frontpage": "SustainnableCloudDevelopment.png",
+    "publisher": "Packt Publishing",
+    "release date": "March 28, 2025",
+    "pages number":"276",
+    "description": "This book combines practical insights, best practices, and case studies to help you align your cloud operations with global sustainability goals. From foundational concepts such as carbon footprint measurement to advanced techniques such as sustainable software architecture, generative AI lifecycle optimization, and cost-efficient cloud practices, this book covers every aspect of sustainable cloud development. You’ll get to grips with key tools, including AWS Cost Explorer, for analyzing costs and usage over time to right-size deployments; auto scaling for automatically scaling compute resources dynamically based on demand; Amazon Trusted Advisor for reviewing optimization recommendations across critical areas such as cost, performance, and security; and Amazon CloudWatch for detailed monitoring and threshold-based alerting around all resources and applications.",
+    "download link": "https://pastebin.com/TP7Vb6Fr",
+    "publish date":"2025-09-06",
+    "shared by": "Drolord22"
+  },
     {
     "title": "Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith",
     "author": "Sam Newman",
