@@ -1,4 +1,43 @@
 [  
+    {
+    "title": "Cloud Native Anti-Patterns: Avoiding Common Mistakes and Driving Success with Best Practices and Real-World Cases",
+    "author": "Gerald Bachlmayr, Aiden Ziegelaar, Alan Blockley, Bojan Zivic & Nick Triantafillou",
+    "category": "AI",
+    "frontpage": "CloudNativeAntiPatterns.png",
+    "publisher": "Packt Publishing",
+    "release date": "March 28, 2025",
+    "pages number":"443",
+    "description": "Successfully transitioning to a cloud-native architecture demands more than just new tools—it requires a change in mindset. Written by cloud transformation experts Gerald Bachlmayr, Aiden Ziegelaar, Alan Blockley, and Bojan Zivic—this guide shows you how to identify and remediate cloud anti-patterns, manage FinOps, meet security goals, and understand cloud storage, thus steering your organization to become truly cloud native. You will develop the skills necessary to navigate the cloud native landscape, irrespective of the platform: AWS. Azure or GCP!",
+    "download link": "https://pastebin.com/aLw9M9kk",
+    "publish date":"2025-09-08",
+    "shared by": "Drolord22"
+    },
+    {
+    "title": "CI/CD Design Patterns: Design and implement CI/CD using proven design patterns",
+    "author": "Garima Bajpai, Michel Schildmeijer, Muktesh Mishra, Pawel Piwosz & Helen Beal",
+    "category": "AI",
+    "frontpage": "CDDesignPatterns.png",
+    "publisher": "Packt Publishing",
+    "release date": "December 13, 2024",
+    "pages number":"356",
+    "description": "The fast-changing world of software development demands robust CI/CD solutions that go beyond traditional methods to address the complexities of modern pipelines. This practical guide presents proven design patterns to streamline your CI/CD processes, tackling pain points often overlooked by other resources. This book introduces continuous delivery design patterns to help practitioners and engineering teams design, adopt, and implement CI/CD. Drawing from decades of combined industry experience, the expert author team—including DevOps and cloud leader Garima Bajpai, industry expert Michel Schildmeijer, CI/CD framework creator Pawel Piwosz, and open source advocate Muktesh Mishra—provides invaluable insights from leading voices in the industry.",
+    "download link": "https://pastebin.com/q7Sb0qqE",
+    "publish date":"2025-09-08",
+    "shared by": "Drolord22"
+    },
+    {
+    "title": "Build Python Web Apps with Streamlits",
+    "author": "Aneev D. Kochakadan",
+    "category": "Programming",
+    "frontpage": "BuildPythonWebAppsWithStreamlit.png",
+    "publisher": "Manning",
+    "release date": "January 1, 2025",
+    "pages number":"533",
+    "description": "Learning any web framework can feel daunting. Yet Streamlit has exploded as the go-to tool for data science and machine learning apps—from nimble startups to OpenAI, Anthropic, and Fortune 50 giants. It bridges Python's AI dominance with web's visual power, enabling everything from data dashboards to LLM-driven experiences.",
+    "download link": "https://pastebin.com/deU2q2wK",
+    "publish date":"2025-09-08",
+    "shared by": "Drolord22"
+  },
   {
     "title": "Sustainable Cloud Development: Optimize cloud workloads for environmental impact in the GenAI era",
     "author": "Parth Girish Patel, Ishneet Kaur Dua & Steven David",
