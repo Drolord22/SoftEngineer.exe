@@ -1,4 +1,56 @@
-[  
+[    
+    {
+    "title": "Modern C",
+    "author": "Jens Gustedt",
+    "category": "Programming",
+    "frontpage": "ModernC.png",
+    "publisher": "Manning",
+    "release date": "October 07, 2019",
+    "pages number":"548",
+    "description": "Modern C introduces you to modern day C programming, emphasizing the unique and new features of this powerful language. For new C coders, it starts with fundamentals like structure, grammar, compilation, and execution. From there, you’ll advance to control structures, data types, operators, and functions, as you gain a deeper understanding of what’s happening under the hood. In the final chapters, you’ll explore performance considerations, reentrancy, atomicity, threads, and type-generic programming. You’ll code as you go with concept-reinforcing exercises and skill-honing challenges along the way.",
+    "download link": "https://pastebin.com/rHBjCsej",
+    "publish date":"2025-09-10",
+    "shared by": "Drolord22"
+    },
+    {
+    "title": "Learn C Programming: A beginner's guide to learning the most powerful and general-purpose programming language with ease, 2nd Edition",
+    "author": "Jeff Szuhay",
+    "category": "Programming",
+    "frontpage": "LearnCProgramming.png",
+    "publisher": "Packt Publishing",
+    "release date": "August 30, 2022",
+    "pages number":"742",
+    "description": "The foundation for many modern programming languages such as C++, C#, JavaScript, and Go, C is widely used as a system programming language as well as for embedded systems and high-performance computing. With this book, you'll be able to get up to speed with C in no time.",
+    "download link": "https://pastebin.com/FpRLrv3f",
+    "publish date":"2025-09-10",
+    "shared by": "Drolord22"
+    },
+    {
+    "title": "Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries, 4th Edition",
+    "author": "Steven F. Lott & Dusty Phillips",
+    "category": "Programming",
+    "frontpage": "PythonObjectOrientedProgramming.png",
+    "publisher": "Packt Publishing",
+    "release date": "July 02, 2021",
+    "pages number":"715",
+    "description": "Object-oriented programming (OOP) is a popular design paradigm in which data and behaviors are encapsulated in such a way that they can be manipulated together. Python Object-Oriented Programming, Fourth Edition dives deep into the various aspects of OOP, Python as an OOP language, common and advanced design patterns, and hands-on data manipulation and testing of more complex OOP systems. These concepts are consolidated by open-ended exercises, as well as a real-world case study at the end of every chapter, newly written for this edition. All example code is now compatible with Python 3.9+ syntax and has been updated with type hints for ease of learning.",
+    "download link": "https://pastebin.com/htxJ27gd",
+    "publish date":"2025-09-10",
+    "shared by": "Drolord22"
+    },
+    {
+    "title": "Java Coding Problems: Become an expert Java programmer by solving over 250 brand-new, modern, real-world problems",
+    "author": "Anghel Leonard",
+    "category": "Programming",
+    "frontpage": "JavaCodingProblems.png",
+    "publisher": "Packt Publishing",
+    "release date": "March 19, 2024",
+    "pages number":"799",
+    "description": "The super-fast evolution of the JDK between versions 12 and 21 has made the learning curve of modern Java steeper, and increased the time needed to learn it. This book will make your learning journey quicker and increase your willingness to try Java’s new features by explaining the correct practices and decisions related to complexity, performance, readability, and more.",
+    "download link": "https://pastebin.com/PPcEAL9N",
+    "publish date":"2025-09-10",
+    "shared by": "Drolord22"
+    },
     {
     "title": "Cloud Native Anti-Patterns: Avoiding Common Mistakes and Driving Success with Best Practices and Real-World Cases",
     "author": "Gerald Bachlmayr, Aiden Ziegelaar, Alan Blockley, Bojan Zivic & Nick Triantafillou",
