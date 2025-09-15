@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="SoftEngineerGear.ico">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore and Download Free PDF Books on Programming, Cybersecurity, Hacking, and more.">
+    <meta name="keywords" content="pdf, free books, programming, cybersecurity, encryption, software engineering, linux, hacking, operating systems, artificial intelligence, download, free download, mediafire, mega, google drive">
+    <title>SoftEngineer.exe - Free programming PDF books</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="index.html">
+        <img src="src/SoftEngineer_logo.png" alt="SoftEngineer.exe Logo" class="logo">
+        </a>
+        <nav>
+            <a href="index.html?category=All">All</a>
+            <a href="index.html?category=Programming">Programming</a>
+            <a href="index.html?category=Databases">Databases</a>
+            <a href="index.html?category=Cybersecurity">Cybersecurity</a>
+            <a href="index.html?category=Hacking">Hacking</a>
+            <a href="index.html?category=OS">Operating Systems</a>
+            <a href="index.html?category=AI">Artificial Intelligence</a>
+
+                
+            <form class="search-container" onsubmit="search(event)">
+            <input type="text" id="searchInput" placeholder="Search for books...">
+            <button type="submit" aria-label="Search">
+            🔍
+            </button>
+            </form>    
+                                
+        </nav>
+    </header>
+
+    <main>
+        <form action="suggestions.php" method="POST">
+        <label for="Name">First name:</label>
+        <input type="text" id="FirstName" name="FirstName" required>
+        <br>
+
+        <label for="email">Correo electrónico:</label>
+        <input type="email" id="email" name="email" required>
+        <br>
+
+        <label for="mensaje">Sugerencia:</label>
+        <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+        <br>
+
+
+        <button type="submit">Enviar sugerencia</button>
+        </form>
+    </main>
+
+</body>
+</html>

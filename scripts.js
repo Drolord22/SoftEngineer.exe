@@ -1,5 +1,5 @@
 let books = [];
-const booksPerPage = 8;
+const booksPerPage = 12;
 let currentPage = parseInt(new URLSearchParams(window.location.search).get("page")) || 1;
 const urlParams = new URLSearchParams(window.location.search);
 const selectedCategory = urlParams.get("category") || "All";
@@ -103,7 +103,8 @@ function search(event) {
   const filtered = books.filter(book =>
     book.title.toLowerCase().includes(input) ||
     book.author.toLowerCase().includes(input) ||
-    book.category.toLowerCase().includes(input)
+    book.category.toLowerCase().includes(input) ||
+    book.publisher.toLowerCase().includes(input)
   );
   currentPage = 1;
 
